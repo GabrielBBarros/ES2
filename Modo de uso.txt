@@ -1,0 +1,4 @@
+Em caso o arquivo executável não execute é possível fazer o processo dentro da pasta,
+primeiro selecione a pasta no eclipse "Projeto - Editor de Imagem - Gabriel Bevilacqua",
+depois em Open Projects from file system selecione "EditordeImagens", quando apertado o finish
+aparecerá a pasta src, com isso abra a pasta e direcione em "Editor->Funções.java" e aperte o Run.
